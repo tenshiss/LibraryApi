@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryApi", "LibraryApi\LibraryApi.csproj", "{D3D34358-6139-40CF-BEB1-D5F07767C67C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9A03A80B-4D63-4C9B-AB94-8838B57AFED7}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3D34358-6139-40CF-BEB1-D5F07767C67C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3D34358-6139-40CF-BEB1-D5F07767C67C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3D34358-6139-40CF-BEB1-D5F07767C67C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3D34358-6139-40CF-BEB1-D5F07767C67C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
